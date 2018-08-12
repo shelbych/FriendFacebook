@@ -1,5 +1,5 @@
 FFacebook
 =========
 
-Facebook automated signup and friending
-README is a work in progress
+UNMAINTAINED.
+Facebook automated signup and friending.
